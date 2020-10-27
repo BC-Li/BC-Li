@@ -1,7 +1,3 @@
-## Hi! I'm Bocheng Li.
-- 🔭 Currently working on reviews.
-- 💬 Ask me everything! and I'll try my best to answer. 
-- 📫 You can find my contact info through my personal blog. XD
-- ⚡ Quick facts about me: Keen on EDM music, ARPG games and everything positive.
+![https://img.shields.io/github/followers/BC-Li?label=Follow%20BC-Li&style=social](https://img.shields.io/github/followers/BC-Li?label=Follow%20BC-Li&style=social)
 
-I'm always delighted to make new friends and I'm willing to improve together.
+![Visitors]( https://visitor-badge.glitch.me/badge?page_id=BC-Li.BC-Li)
