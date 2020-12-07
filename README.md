@@ -11,7 +11,7 @@
 <details>
 <summary>⚡️ More about coding </summary>
 <br />
-</div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BC-Li&layout=compact&hide=css,html)
 
@@ -19,4 +19,4 @@
 
 </details>
 
-
+</div>
