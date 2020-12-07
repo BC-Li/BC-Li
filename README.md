@@ -11,12 +11,12 @@
 <details>
 <summary>⚡️ More about coding </summary>
 <br />
-
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BC-Li&layout=compact&hide=css,html)
 
 ![BC-Li's github stats](https://github-readme-stats.vercel.app/api?username=BC-Li&count_private=true&show_icons=true&theme=onedark)
 
 </details>
-</div>
+
 
