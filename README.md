@@ -1,4 +1,3 @@
-![banner](https://raw.githubusercontent.com/BC-Li/BC-Li/master/banner.png?token=AMSLLI6RXTUUOS4IDCQ263K725FHC)
 <div align="center">
 
 📫  Find me Here:
