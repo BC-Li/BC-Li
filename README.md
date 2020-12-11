@@ -9,6 +9,7 @@
 [![Ubuntu](https://img.shields.io/static/v1?style=flat-square&logo=UBUNTU&label=&message=Ubuntu&color=5b5b5b&labelColor=5b5b5b)](https://ubuntu.com/)
 [![WSL](https://img.shields.io/static/v1?style=flat-square&logo=powershell&label=&message=WSL&color=5b5b5b&labelColor=5b5b5b)](https://docs.microsoft.com/en-us/windows/wsl/)
 
+
 <i>I'm always delighted to make new friends!</i>
 
 <details>
@@ -23,3 +24,4 @@
 </details>
 
 </div>
+Avatar from Genshin Impact 'Klee' ///
