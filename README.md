@@ -2,7 +2,7 @@
 
 📫  Find me Here:
 
-[![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=TurboRocket&color=5b5b5b&labelColor=5b5b5b)]()
+[![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@TurboRocket&color=5b5b5b&labelColor=5b5b5b)]()
   [![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@BC-Li&color=5b5b5b&labelColor=5b5b5b)](https://github.com/BC-Li)
 [![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=@TurboRocket&color=5b5b5b&labelColor=5b5b5b)](https://stackexchange.com/users/19072440/turborocket)
 
