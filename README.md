@@ -23,6 +23,6 @@
 
 </details>
 
-Avatar from Genshin Impact 'Klee' ///
+Avatar from Genshin Impact 'Albedo' ///
 </div>
 
