@@ -16,7 +16,7 @@
 [![hugo](https://img.shields.io/static/v1?style=flat-square&logo=hugo&label=&message=Hugo&color=FF4088&labelColor=5b5b5b)](https://gohugo.io/)
 
 
-🔨  Code I write:
+🔨  Code I Write:
 
 [![Python](https://img.shields.io/static/v1?style=flat-square&logo=python&label=&message=Python&color=3776AB&labelColor=5b5b5b)](https://python.org)
 [![C](https://img.shields.io/static/v1?style=flat-square&logo=C&label=&message=C%20Language&color=A8B9CC&labelColor=5b5b5b)](https://python.org)
