@@ -1,5 +1,4 @@
 <div align="center">
-CS @ USTC, interested in Computer Vision.
 
 📫  Find me Here:
 
