@@ -13,7 +13,8 @@
 [![VSC](https://img.shields.io/static/v1?style=flat-square&logo=visual-studio-code&label=&message=Visual%20Studio%20Code&color=007ACC&labelColor=5b5b5b)](https://docs.microsoft.com/en-us/windows/wsl/)
 ![GIT](https://img.shields.io/static/v1?style=flat-square&logo=git&label=&message=Git&color=F05032&labelColor=5b5b5b)
 ![pyc](https://img.shields.io/static/v1?style=flat-square&logo=pycharm&label=&message=PyCharm&color=000000&labelColor=5b5b5b)
-[![Overl](https://img.shields.io/static/v1?style=flat-square&logo=overleaf&label=&message=OverLeaf&color=47A141&labelColor=5b5b5b)](https://docs.microsoft.com/en-us/windows/wsl/)
+[![Overl](https://img.shields.io/static/v1?style=flat-square&logo=overleaf&label=&message=OverLeaf&color=47A141&labelColor=5b5b5b)](https://overleaf.com)
+[![hugo](https://img.shields.io/static/v1?style=flat-square&logo=hugo&label=&message=hugo&color=FF4088&labelColor=5b5b5b)](https://gohugo.io/)
 
 
 🔨  Code I write:
