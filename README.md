@@ -20,6 +20,10 @@
 
 [![Python](https://img.shields.io/static/v1?style=flat-square&logo=python&label=&message=Python&color=3776AB&labelColor=5b5b5b)](https://python.org)
 [![C](https://img.shields.io/static/v1?style=flat-square&logo=C&label=&message=C%20Language&color=A8B9CC&labelColor=5b5b5b)](https://python.org)
-![Verilog](https://img.shields.io/static/v1?style=flat-square&logo=V&label=&message=Verilog&color=5D87BF&labelColor=5b5b5b)
 ![Latex](https://img.shields.io/static/v1?style=flat-square&logo=latex&label=&message=LaTeX&color=008080&labelColor=5b5b5b)
 ![Assem](https://img.shields.io/static/v1?style=flat-square&logo=assemblyscript&label=&message=RISC-V%20Assembly&color=007AAC&labelColor=5b5b5b)
+ 
+ 💥 Bug I Make:
+ 
+![Verilog](https://img.shields.io/static/v1?style=flat-square&logo=V&label=&message=Verilog&color=5D87BF&labelColor=5b5b5b)
+ 
