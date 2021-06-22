@@ -25,7 +25,7 @@
  
  💥 Code I don't wanna write for a while:
  
-![Verilog](https://img.shields.io/static/v1?style=flat-square&logo=V&label=&message=Verilog&color=5D87BF&labelColor=5b5b5b)
+![Verilog](https://img.shields.io/static/v1?style=flat-square&logo=V&label=&message=Veribug&color=5D87BF&labelColor=5b5b5b)
  
 <!--  <details><summary>Languages I used overall time (by WakaTime)</summary> -->
 <!--   ![wakatime](https://wakatime.com/share/@c51a268f-79a1-43b8-9f02-3575d8a54e8b/69b50755-1d32-4a35-889a-427e98e9d11a.svg) -->
